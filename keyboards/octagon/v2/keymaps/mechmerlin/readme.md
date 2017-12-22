@@ -5,10 +5,10 @@ This is the preferred layout of [Mechmerlin](www.youtube.com/mechmerlin)
 Merlin is not a fan of in switch lighting (backlighting) so he does not have controls for that
 
 Base Layer
-![Octagon V2 Base Layer](https://imgur.com/cmzEYNp)
+![Octagon V2 Base Layer](https://imgur.com/cmzEYNp.jpg)
 
 Fn Layer
-![Octagon V2 Fn Layer](https://imgur.com/kFpY1fS)
+![Octagon V2 Fn Layer](https://imgur.com/kFpY1fS.jpg)
 
 ## Features
 
